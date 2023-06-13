@@ -32,8 +32,8 @@ dependencies:
     specifier: ^18.2.0
     version: 18.2.0(react@18.2.0)
   superjson:
-    specifier: ^1.7.4
-    version: 1.12.2
+    specifier: ^1.12.3
+    version: 1.12.3
   zod:
     specifier: ^3.0.0
     version: 3.20.2
@@ -3522,8 +3522,8 @@ packages:
       react: 18.2.0
     dev: false
 
-  /superjson@1.12.2:
-    resolution: {integrity: sha512-ugvUo9/WmvWOjstornQhsN/sR9mnGtWGYeTxFuqLb4AiT4QdUavjGFRALCPKWWnAiUJ4HTpytj5e0t5HoMRkXg==}
+  /superjson@1.12.3:
+    resolution: {integrity: sha512-0j+U70KUtP8+roVPbwfqkyQI7lBt7ETnuA7KXbTDX3mCKiD/4fXs2ldKSMdt0MCfpTwiMxo20yFU3vu6ewETpQ==}
     engines: {node: '>=10'}
     dependencies:
       copy-anything: 3.0.3
